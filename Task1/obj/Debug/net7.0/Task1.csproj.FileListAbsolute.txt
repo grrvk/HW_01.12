@@ -1,0 +1,15 @@
+/Users/vika/Projects/HW_30.11/Task1/bin/Debug/net7.0/Task1
+/Users/vika/Projects/HW_30.11/Task1/bin/Debug/net7.0/Task1.deps.json
+/Users/vika/Projects/HW_30.11/Task1/bin/Debug/net7.0/Task1.runtimeconfig.json
+/Users/vika/Projects/HW_30.11/Task1/bin/Debug/net7.0/Task1.dll
+/Users/vika/Projects/HW_30.11/Task1/bin/Debug/net7.0/Task1.pdb
+/Users/vika/Projects/HW_30.11/Task1/obj/Debug/net7.0/Task1.csproj.AssemblyReference.cache
+/Users/vika/Projects/HW_30.11/Task1/obj/Debug/net7.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vika/Projects/HW_30.11/Task1/obj/Debug/net7.0/Task1.AssemblyInfoInputs.cache
+/Users/vika/Projects/HW_30.11/Task1/obj/Debug/net7.0/Task1.AssemblyInfo.cs
+/Users/vika/Projects/HW_30.11/Task1/obj/Debug/net7.0/Task1.csproj.CoreCompileInputs.cache
+/Users/vika/Projects/HW_30.11/Task1/obj/Debug/net7.0/Task1.dll
+/Users/vika/Projects/HW_30.11/Task1/obj/Debug/net7.0/refint/Task1.dll
+/Users/vika/Projects/HW_30.11/Task1/obj/Debug/net7.0/Task1.pdb
+/Users/vika/Projects/HW_30.11/Task1/obj/Debug/net7.0/Task1.genruntimeconfig.cache
+/Users/vika/Projects/HW_30.11/Task1/obj/Debug/net7.0/ref/Task1.dll
